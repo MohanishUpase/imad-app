@@ -8,8 +8,16 @@ body {
     text-align: center;
 }
 
+.pull_right {
+    float: right;
+}
+
 .text-big {
     font-size: 300%;
+}
+
+.text-small {
+    font-size: 100%;
 }
 
 .bold {
@@ -18,5 +26,9 @@ body {
 
 .img-medium {
     height: 200px;
+}
+
+.img-small {
+    height: 70px;
 }
 
